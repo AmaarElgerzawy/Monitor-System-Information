@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="theIcons">
+    <file>battry.png</file>
+    <file>cpu.png</file>
+    <file>icons8-badger-50.png</file>
+    <file>icons8-close-window-20.png</file>
+    <file>icons8-drag-5.png</file>
+    <file>icons8-drag-20.png</file>
+    <file>icons8-frequency-50.png</file>
+    <file>icons8-maximize-20.png</file>
+    <file>icons8-menu-rounded-30.png</file>
+    <file>icons8-minimize-20.png</file>
+    <file>icons8-monitor-50.png</file>
+    <file>icons8-ovality-sensor-50.png</file>
+    <file>icons8-patreon-60.png</file>
+    <file>icons8-paypal-60.png</file>
+    <file>icons8-questions-20.png</file>
+    <file>icons8-search-30.png</file>
+    <file>icons8-storage-50.png</file>
+    <file>icons8-wi-fi-50.png</file>
+    <file>icons8-youtube-60.png</file>
+  </qresource>
+</RCC>
